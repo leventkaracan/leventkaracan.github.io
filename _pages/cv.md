@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Erciyes University, Kayseri, TURKEY, 2011
+* M.S. in Computer Engineering, Hacetepe University, Ankara, TURKEY, 2013
+* Ph.D in Computer Engineering, Hacettepe University, Ankara, TURKEY, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012 - 2019: Research Assistant
+  * Hacettepe University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - : Assistant Professor
+  * Iskenderun Technical University
+
   
-Skills
+Research Areas
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Image and Video Processing
+  * Image Filtering
+  * Image and Video Editing
+* Machine Learning
+  * Deep Generative Models
+  * Generative Adversarial Networks
+
 
 Publications
 ======
@@ -54,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!--Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
