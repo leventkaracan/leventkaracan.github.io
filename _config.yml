@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Levent Karacan # the website title (if blank, full name will be used instead)
 first_name: Levent
 # middle_name: 
 last_name: Karacan
@@ -124,7 +124,7 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: E2Jgk8e8dL-L0ltJfxKSW_Rt2VWo8vn6kEZ_jx2uhBw # your google-site-verification ID (Google Search Console)
+google_site_verification: lV0PN4jyqc_IFhama_lLXt3-sTRVEkpWCaWmpI1Li-4 # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -311,8 +311,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Karacan]
+  first_name: [Levent]
 
   style: apa
   locale: en
