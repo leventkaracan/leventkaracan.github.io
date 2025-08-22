@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper on multi-focus image fusion has been published in Signal Processing:Image Communication (SCI (Q2)): [Multi-image transformer for multi-focus image fusion](https://www.sciencedirect.com/science/article/pii/S0923596523001406). 
+My paper on multi-focus image fusion has been published in Signal Processing:Image Communication (SCI (Q2)): [Multi-image transformer for multi-focus image fusion](https://www.sciencedirect.com/science/article/pii/S0923596523001406).

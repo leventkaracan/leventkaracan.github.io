@@ -4,7 +4,7 @@
 
 title: Levent Karacan # the website title (if blank, full name will be used instead)
 first_name: Levent
-# middle_name: 
+# middle_name:
 last_name: Karacan
 email: lkaracan@gantep.edu.tr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -106,7 +106,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: lvntkrcn# your X handle 
+x_username: lvntkrcn# your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -132,8 +132,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: # blog_name will be displayed in your blog page
-blog_description: 
-permalink: 
+blog_description:
+permalink:
 lsi: false # produce an index for related posts
 
 # Pagination
