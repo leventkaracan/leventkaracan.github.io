@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Coming soon! In the upcoming term, I will describe my courses with materials on this page.
+title: Teaching
+description: Course Information
 nav: true
 nav_order: 6
 ---
