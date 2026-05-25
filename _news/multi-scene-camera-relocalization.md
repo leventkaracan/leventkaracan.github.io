@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled "Multi-scene camera relocalization via modulated coordinate regression and low-rank adaptation", co-authored with Mehmet Sar{\i}g{\"u}l and Bar{\i}{\c{s}} Ata, has been published in *Scientific Reports*.
+Our paper titled "Multi-scene camera relocalization via modulated coordinate regression and low-rank adaptation", co-authored with Mehmet Sarigul and Baris Ata, has been published in *Scientific Reports*.

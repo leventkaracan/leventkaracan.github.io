@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled "FISformer: Replacing Self-Attention with a Fuzzy Inference System in Transformer Models for Time Series Forecasting", co-authored with B{\"u}lent Haznedar, has been published in *IEEE Transactions on Fuzzy Systems*.
+Our paper titled "FISformer: Replacing Self-Attention with a Fuzzy Inference System in Transformer Models for Time Series Forecasting", co-authored with Bulent Haznedar, has been published in *IEEE Transactions on Fuzzy Systems*.
