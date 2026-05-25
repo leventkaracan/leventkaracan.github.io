@@ -48,5 +48,26 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
+          # Check source content files, but skip raw Liquid include/template files and
+          # a few third-party endpoints that block automated requests.
+          args: >-
+            --user-agent 'curl/7.54'
+            --verbose
+            --no-progress
+            --exclude-path README.md
+            --exclude-path INSTALL.md
+            --exclude-path FAQ.md
+            --exclude-path _pages/404.md
+            --exclude-path _pages/blog.md
+            --exclude-path _posts/2018-12-22-distill.md
+            --exclude-path _includes/**
+            --exclude-path _layouts/**
+            --exclude-path _sass/**
+            --exclude-path vendor/**
+            --exclude 'https://unsplash\.com/?$'
+            --exclude 'https://ieeexplore\.ieee\.org/abstract/document/10325460/?$'
+            './_pages/**/*.md'
+            './_posts/**/*.md'
+            './_news/**/*.md'
+            './_projects/**/*.md'
+            './**/*.html'
